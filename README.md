@@ -1,8 +1,6 @@
 # ESC-23SPRING
 연세대학교 통계 및 데이터사이언스 학회 ESC의 2023학년도 1학기 활동 저장소입니다.
 
-# ESC-22SPRING
-
 ![GITHUB 23SPRING 표지](https://user-images.githubusercontent.com/56993675/222874689-fd89afde-2894-47f3-a5d1-44078a1486f3.jpg)
 
 ## Plan
@@ -11,9 +9,9 @@
 |:--:|:--------------------------:|:------------------------|
 |week 0|OT, introduction (3/2)| |
 |week 1|Statistical estimation (3/9)<br/>발제자: 김민주, 이종현| |
-|week 2|Unconstrained minimization (3/16)<br/>발제자: 김종민, 임승현| 강경훈 선배님 연사특강|
+|week 2|Unconstrained minimization (3/16)<br/>발제자: 김종민, 임승현|강경훈 선배님 연사특강|
 |week 3|Subgradient methods (3/23)<br/> 발제자: 전상후, 박정현| |
-|week 4|Robust optimization (3/30)<br/>발제자: 윤현석, 최영준| 연사특강3|
+|week 4|Robust optimization (3/30)<br/>발제자: 윤현석, 최영준|연사특강3|
 |week 5|Robust optimization in ML (4/6)<br/>발제자: 김두은, 김태완| |
 |-|중간고사 기간(2주)| |
 |week 6|파이널 프로젝트1 (5/4)| |
@@ -25,7 +23,8 @@
 # 자율스터디
 
 # 정규세션 교재
-Ovidiu Calin (2022). *Deep Learning Architecture - a Mathematical Approach*. Springer.
+주교재: Convex Optimization – Boyd and Vandenberghe
+주교재: Optimization for Machine Learning - Sra, Suvrit, Nowozin, Sebastian,Wright, Stephen J.
 
 # 세션 영상 유튜브 링크
-- 220309 week 2 : 
+- 230309 week 2 : 
