@@ -23,8 +23,8 @@
 # 자율스터디
 
 # 정규세션 교재
-주교재: Convex Optimization – Boyd and Vandenberghe
-주교재: Optimization for Machine Learning - Sra, Suvrit, Nowozin, Sebastian,Wright, Stephen J.
+- 주교재: Convex Optimization – Boyd and Vandenberghe
+- 주교재: Optimization for Machine Learning - Sra, Suvrit, Nowozin, Sebastian,Wright, Stephen J.
 
 # 세션 영상 유튜브 링크
 - 230309 week 2 : 
