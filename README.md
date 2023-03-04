@@ -3,7 +3,7 @@
 
 # ESC-22SPRING
 
-![2023 spring 표지]()
+![GITHUB 23SPRING 표지](https://user-images.githubusercontent.com/56993675/222874689-fd89afde-2894-47f3-a5d1-44078a1486f3.jpg)
 
 ## Plan
 
