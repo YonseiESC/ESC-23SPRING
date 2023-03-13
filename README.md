@@ -21,11 +21,11 @@
 |-|기말고사 기간(2주)| |
 
 # 자율스터디
--
+- 미분기하(박상용)
 
 # 정규세션 교재
 - 주교재: Convex Optimization – Boyd and Vandenberghe
 - 주교재: Optimization for Machine Learning - Sra, Suvrit, Nowozin, Sebastian,Wright, Stephen J.
 
 # 세션 영상 유튜브 링크
-- 230309 week 2 : 
+- 230309 week 2 : https://youtu.be/QtGPL9_oxxg
