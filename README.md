@@ -28,4 +28,5 @@
 - 주교재: Optimization for Machine Learning - Sra, Suvrit, Nowozin, Sebastian,Wright, Stephen J.
 
 # 세션 영상 유튜브 링크
-- 230309 week 2 Statistical Estimation : https://youtu.be/QtGPL9_oxxg
+- 230309 week 1 Statistical Estimation : https://youtu.be/QtGPL9_oxxg
+- 230316 week 2 Unconstrained minimization : https://youtu.be/8jJqfWwv5FY
