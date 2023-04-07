@@ -13,7 +13,7 @@
 |week 3|Subgradient methods (3/23)<br/> 발제자: 전상후, 박정현| |
 |week 4|Robust optimization (3/30)<br/>발제자: 윤현석, 최영준|연사특강3 (4/1)|
 |week 5|Robust optimization in ML (4/6)<br/>발제자: 김두은, 김태완| |
-|-|중간고사 기간(2주)| |
+|-|중간고사 기간(3주)| |
 |week 6|파이널 프로젝트1 (5/4)|연사특강4 (5/6)|
 |week 7|파이널 프로젝트2 (5/11)| |
 |week 8|파이널 프로젝트3 (5/18)|줄리아2 (5/20)|
@@ -30,3 +30,6 @@
 # 세션 영상 유튜브 링크
 - 230309 week 1 Statistical Estimation : https://youtu.be/QtGPL9_oxxg
 - 230316 week 2 Unconstrained minimization : https://youtu.be/8jJqfWwv5FY
+- 230323 Week 3 Subgradient method : https://youtu.be/TEakAcT1KW4
+- 230330 Week 4 Robust optimization : https://youtu.be/FyZ3yIYyNHg
+- 230406 Week 5 Robust optimization in ML : https://youtu.be/lulawT377KE
