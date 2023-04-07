@@ -11,7 +11,7 @@
 |week 1|Statistical estimation (3/9)<br/>발제자: 김민주, 이종현| |
 |week 2|Unconstrained minimization (3/16)<br/>발제자: 김종민, 임승현|강경훈 선배님 연사특강 (3/18 13:00~15:00)|
 |week 3|Subgradient methods (3/23)<br/> 발제자: 전상후, 박정현| |
-|week 4|Robust optimization (3/30)<br/>발제자: 윤현석, 최영준|연사특강3 (4/1)|
+|week 4|Robust optimization (3/30)<br/>발제자: 윤현석, 최영준| 손지용 교수님 연사특강 (4/1) <br/> ESC x KUBIG 교류 행사|
 |week 5|Robust optimization in ML (4/6)<br/>발제자: 김두은, 김태완| |
 |-|중간고사 기간(3주)| |
 |week 6|파이널 프로젝트1 (5/4)|연사특강4 (5/6)|
